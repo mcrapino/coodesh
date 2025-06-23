@@ -58,3 +58,19 @@ Construir as seguintes consultas:
 ## Suporte
 
 Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
+
+## Titulo
+
+Teste para a Vaga PL/SQL
+
+## Descricao
+
+Teste para avaliação do conhecimento em PL/SQL
+
+## Lista de Linguagens
+
+PL/SQL
+
+## Instruções para instalar os programas
+
+
