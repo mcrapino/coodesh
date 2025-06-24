@@ -71,6 +71,13 @@ Teste para avaliação do conhecimento em PL/SQL
 
 PL/SQL
 
-## Instruções para instalar os programas
+## Instruções para executar os programas
 
-
+1) download dos arquivos .sql em uma pasta
+2) abrir um prompt ou terminal na pasta dos arquivos
+3) entrar no sqlplus com o comando sqlplus user/password
+4) no prompt do oracle executar o comando @exercicio1.sql e analisar o resultado
+5) no prompt do oracle executar o comando @exercicio2.sql e analisar o resultado
+6) no prompt do oracle executar o comando @exercicio3.sql e analisar o resultado
+7) no prompt do oracle executar o comando @exercicio4.sql e analisar o resultado
+8) no prompt do oracle executar o comando @exercicio5.sql e analisar o resultado
