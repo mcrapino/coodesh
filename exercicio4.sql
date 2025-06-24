@@ -1,6 +1,6 @@
 //- Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
 
-select b.brand_name, s.store_name, oi.quantity
+select b.brand_name, s.store_name, sum(oi.quantity) as quantidade
 from orders o 
 inner join stores s on o.store_id = s.store_id
 inner join order_items oi on o.order_id = oi.order_id
