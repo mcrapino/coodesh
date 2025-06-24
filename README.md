@@ -59,6 +59,11 @@ Construir as seguintes consultas:
 
 Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
 
+## considerações
+
+- fiz um printscr do esquema das tabelas para poder facilitar minha consulta
+- Tive muita vontade de criar tabelas teste em uma instalação oracle xe local, para facilitar meus testes. Tive receio de ser desclassificado
+
 ## Titulo
 
 Teste para a Vaga PL/SQL
